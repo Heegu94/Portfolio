@@ -1,5 +1,4 @@
 # ICEIC2021
-___
 
 
 ## [Poster] Development of enhanced panoramic dental x-ray image generation system using multi-detector computed tomography image (ICEIC2021, presentation)
