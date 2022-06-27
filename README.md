@@ -1,3 +1,13 @@
+# Hee-Guen Kang
+#### AI Researcher, Deep Learning Engineer
+|Skills|   |
+|------|---|
+|Programming Language  | Python |
+|Framework & API| Tensorflow, Pytorch, Keras, Openvino-toolkit, OpenCV|
+|OS| Windows, Linux
+|Communication|GitHub Docker|
+___
+
 # 01 Papers & Posters 
 ## Papers
 
@@ -28,7 +38,7 @@ ___
 
 #### 1) Model Optimizing 
 
-- [Link](https://github.com/Heegu94/InferenceOpenvino, "openvino")
+- [Openvino](https://github.com/Heegu94/InferenceOpenvino.git )
 
 ___
 
