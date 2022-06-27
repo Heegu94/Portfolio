@@ -5,7 +5,7 @@
 |Programming Language  | Python |
 |Framework & API| Tensorflow, Pytorch, Keras, Openvino-toolkit, OpenCV|
 |OS| Windows, Linux
-|Etc|GitHub Docker|
+|Etc|GitHub, Docker|
 ___
 
 # 01 Papers & Posters 
