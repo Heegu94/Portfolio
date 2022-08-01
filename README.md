@@ -1,5 +1,9 @@
 # Hee-Guen Kang
 #### AI Researcher, Deep Learning Engineer
+
+|Links|   |
+|[Carrer Description](https://github.com/Heegu94/Portfolio/blob/main/0)Career%20Description.pdf )  |  |
+
 |Skills|   |
 |------|---|
 |Programming Language  | Python |
