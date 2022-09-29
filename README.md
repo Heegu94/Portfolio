@@ -30,9 +30,9 @@ ___
 
 #### 3) Development of enhanced panoramic dental x-ray image generation system using multi-detector computed tomography image (ICEIC2021, presentation)
 
-- [Abstract Link](https://github.com/Heegu94/Portfolio/blob/main/03_1Poster-abstract Development of Improved Panoramic Image Generation System Using Computed Tomography Data.pdf, "ICEIC2021")
+- [Abstract Link](https://github.com/Heegu94/Portfolio/blob/main/03_1Poster-abstract%20Development%20of%20Improved%20Panoramic%20Image%20Generation%20System%20Using%20Computed%20Tomography%20Data.pdf), "ICEIC2021")
 
-- [Presentation Link](https://github.com/Heegu94/Portfolio/blob/main/03_2Presentation Development of Improved Panoramic Image Generation System Using Computed Tomography Data.mp4, "ICEIC2021")
+- [Presentation Link](https://github.com/Heegu94/Portfolio/blob/main/03_2Presentation%20Development%20of%20Improved%20Panoramic%20Image%20Generation%20System%20Using%20Computed%20Tomography%20Data.mp4), "ICEIC2021")
 
 - Hee-Guen Kang[1], Yoo-Jung Son, Akram Abdo Almansoori, Jong-Ho Lee, and Young-Don Son
 
