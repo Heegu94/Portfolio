@@ -30,9 +30,15 @@ ___
 
 #### 3) Development of enhanced panoramic dental x-ray image generation system using multi-detector computed tomography image (ICEIC2021, presentation)
 
+- [Abstract Link](https://github.com/Heegu94/Portfolio/blob/main/03_1Poster-abstract%20Development%20of%20Improved%20Panoramic%20Image%20Generation%20System%20Using%20Computed%20Tomography%20Data.pdf, "ICEIC2021")
+
+- [Presentation Link](https://github.com/Heegu94/Portfolio/blob/main/03_2Presentation%20Development%20of%20Improved%20Panoramic%20Image%20Generation%20System%20Using%20Computed%20Tomography%20Data.mp4, "ICEIC2021")
+
 - Hee-Guen Kang[1], Yoo-Jung Son, Akram Abdo Almansoori, Jong-Ho Lee, and Young-Don Son
 
 #### 4) Development of Image-Based Human Anti-Collision Network for Robot Navigation using Deep learning” (KSOMBE, 2019)
+
+- [Poster Link](https://github.com/Heegu94/Portfolio/blob/main/04_Poster%20Development%20of%20Image-Based%20Human%20Anti-Collision%20Network%20for%20Robot%20Navigation%20using%20Deep%20learning.pdf, "KSOMBE")
 
 - H. G. Kang[1], B. H. Jeong, T. J. Kim, J. Y. Kim, K. B. Lee, H. K. Kim and Y. D. Son
 
