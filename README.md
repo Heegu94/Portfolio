@@ -2,7 +2,7 @@
 #### AI Researcher, Deep Learning Engineer
 
 ### 00 PortFolio & Skils
-- For details, check [Portfolio](https://github.com/Heegu94/Portfolio/blob/main/01_portfolio.pdf)
+- **Portfolio file link**: [Portfolio](https://github.com/Heegu94/Portfolio/blob/main/Portfolio.pdf)
 
 |Skills|   |
 |------|---|
